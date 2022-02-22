@@ -13,13 +13,13 @@ FACULTAD DE INGNIERIA MECÁNICA*
 **TRABAJO DE TITULACIÓN PREVIO A LA OBTENCIÓN DEL TÍTULO DE INGENIERO MECÁNICO**
 
 **Proyecto de Titulación:**
-    Chiriboga del Valle Cristhian Leonardo
-    Obando Martínez Esteban Andrés
++ Chiriboga del Valle Cristhian Leonardo
++ Obando Martínez Esteban Andrés
     
 **Director:**
-    Ing. Hidalgo Díaz Víctor Hugo, DSc
++ Ing. Hidalgo Díaz Víctor Hugo, DSc
     
 **Co-Director:**
-    Ing. Granja Ramírez Mario Germán, MSc
++ Ing. Granja Ramírez Mario Germán, MSc
 
 
