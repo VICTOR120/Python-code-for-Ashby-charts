@@ -1,22 +1,25 @@
-# Python-code-for-Ashby-charts
+# PYTHON CODE FOR ASHBY CHARTS
+
 Python code to perform Ashby Charts
-"""
+
+## Introduction
+
 ECUADOR
 Quito, junio 2018
 
-ESCUELA POLITÉCNICA NACIONAL
-FACULTAD DE INGNIERIA MECÁNICA
+*ESCUELA POLITÉCNICA NACIONAL
+FACULTAD DE INGNIERIA MECÁNICA*
 
-TRABAJO DE TITULACIÓN PREVIO A LA OBTENCIÓN DEL TÍTULO DE INGENIERO MECÁNICO
+**TRABAJO DE TITULACIÓN PREVIO A LA OBTENCIÓN DEL TÍTULO DE INGENIERO MECÁNICO**
 
-Proyecto de Titulación:
+**Proyecto de Titulación:**
     Chiriboga del Valle Cristhian Leonardo
     Obando Martínez Esteban Andrés
     
-Director:
+**Director:**
     Ing. Hidalgo Díaz Víctor Hugo, DSc
     
-Co-Director:
+**Co-Director:**
     Ing. Granja Ramírez Mario Germán, MSc
-"""
+
 
